@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dccrosby23
 - 👀 I’m interested in technology and becoming a Data Enginner 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python, Githib, terminal commands
 - 💞️ I’m looking to collaborate on projects to help me improve my python skills
 - 📫 How to reach me is @ deannacrosby64@gmail.com
 
